@@ -1,4 +1,4 @@
-# Event-Management-Website-Asp.net
+# Event-Management-Website-Asp(C#).Net
 An event management website ('Efactor') developed with ASP.net. 
 <br> This was a team project undertaken in fulfillment towards the Master of Computer Applications degree in 2010 at IBM, ACE, Saltlake, West Bengal, India.
 
